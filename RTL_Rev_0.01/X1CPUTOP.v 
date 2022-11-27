@@ -49,6 +49,7 @@ module CPUACC #(parameter W = 4)(
           ld  = 0; 
           A = 0; 
           ACC = 0; 
+          OF = 0;
         end
       else 
         begin
