@@ -1,4 +1,4 @@
-// ACCUMULATOR BASED CPU DESIGN 
+// ACCUMULATOR BASED CPU DESIGN - 0.01
 
 module CPUACC #(parameter W = 4)(
   // Global Signals
